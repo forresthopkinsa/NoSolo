@@ -1,0 +1,4 @@
+name: NoSolo
+main: com.forresthopkinsa.nosolo.NoSoloPlugin
+version: 0.0.2
+author: forresthopkinsa
